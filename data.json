@@ -1,0 +1,14 @@
+[
+    {
+        "studentId": 1,
+        "nazivTeme": "teagr",
+        "file": "itehL.pdf",
+        "status": "kreirana",
+        "seminarski": {
+            "id": 1
+        },
+        "mentor": {
+            "id": 1
+        }
+    }
+]
